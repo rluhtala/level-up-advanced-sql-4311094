@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course Level Up: Advanced SQL. 
 
 ![Level Up: Advanced SQL][lil-thumbnail-url] 
 
-Want to test out your advanced SQL skills? This course was designed for you. These concise challenges let you stretch your brain and push your talents to the next level. Join Microsoft MVP and SQL expert Jess Pomfret to find out more about what it takes to become a master SQL user. Learn how to execute some of the more sophisticated SQLite queries, including complex join types, grouping, advanced select options, windowing functions, and more.
+Want to test out your advanced SQL skills? This course was designed for you. These concise challenges let you stretch your brain and push your talents to the next level. Join Microsoft MVP and SQL expert Jess Pomfret to find out more about what it takes to become a master SQL user. Learn how to execute some of the more sophisticated SQLite queries, including complaex join types, grouping, advanced select options, windowing functions, and more.
 
 This course is integrated with GitHub Codespaces, an instant development environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace.
 
